@@ -2,9 +2,9 @@
 
 }
 .body{
-    background-color: blue;
+    background-color: rgb(5, 5, 7);
 }
 .titulo{
-    color: aqua; 
+    color: rgb(5, 5, 5); 
     font-size: 40px;
 }
