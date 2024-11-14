@@ -15,3 +15,12 @@
 .cabecalho{
     text-align: center;
 }
+.container{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.coluna1{
+    text-align: center;
+    width: 70%;
+}
